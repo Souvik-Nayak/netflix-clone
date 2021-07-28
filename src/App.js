@@ -6,7 +6,7 @@ import Banner from './Banner/Banner';
 import Row from './Row/Row';
 
 function App() {
-  return (
+  return(
     <div className="app">
       <Nav />
       <Banner />
