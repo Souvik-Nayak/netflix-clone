@@ -29,7 +29,7 @@
     yarn test
     ```
 
-* Builds the app for production to the build folder and It correctly bundles React in production mode. Your app is ready to be deployed !
+* Builds the app for production to the build folder and It correctly bundles React in production mode. Your app is ready to be deployed.
 
     ```sh
     yarn build
