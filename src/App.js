@@ -5,7 +5,6 @@ import Nav from './Nav/Nav';
 import Banner from './Banner/Banner';
 import Row from './Row/Row';
 
-// Main Function
 function App() {
   return(
     <div className="app">
